@@ -12,8 +12,7 @@
     "jsonframe-cheerio": "^3.0.1",
     "mongoose": "^6.1.9",
     "p-queue": "^6.6.2",
-    "pretty": "^2.0.0",
-    "request": "^2.88.2"
+    "pretty": "^2.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
